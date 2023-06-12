@@ -8,4 +8,4 @@ wikipedia
 -f https://download.pytorch.org/whl/torch_stable.html 
 torch===1.5.1 
 torchvision===0.6.1
-transformers==2.5.1
+transformers==4.30.0
